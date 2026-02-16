@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "敗北の少年",
+  "base_artist": "PENGUIN RESEARCH",
+  "createdAt": "2026-02-16T15:09:37.660832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "敗北の少年",
+      "artist": "kemu feat.GUMI feat. GUMI",
+      "has_synced": true,
+      "path": "select/01_敗北の少年_kemu_feat.GUMI_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "敗北の少年",
+      "artist": "kemu feat. GUMI",
+      "has_synced": true,
+      "path": "select/02_敗北の少年_kemu_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "敗北の少年",
+      "artist": "PENGUIN RESEARCH",
+      "has_synced": true,
+      "path": "select/03_敗北の少年_PENGUIN_RESEARCH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "敗北の少年",
+      "artist": "Gumi",
+      "has_synced": false,
+      "path": "select/04_敗北の少年_Gumi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "敗北の少年",
+      "artist": "+α/あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/05_敗北の少年_+α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "敗北の少年",
+      "artist": "ヲタみん",
+      "has_synced": false,
+      "path": "select/06_敗北の少年_ヲタみん.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "敗北の少年",
+      "artist": "kemu feat.GUMI",
+      "has_synced": true,
+      "path": "select/07_敗北の少年_kemu_feat.GUMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "敗北の少年",
+      "artist": "Penguin Research",
+      "has_synced": false,
+      "path": "select/pl_01_敗北の少年_Penguin_Research.txt"
+    }
+  ]
+}
